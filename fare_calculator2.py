@@ -1,5 +1,5 @@
 # Travel Fare Calculator
-FARE_RATE = 14
+FARE_RATE = 14 
 
 # Validate passenger name
 while True:
