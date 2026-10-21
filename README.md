@@ -8,3 +8,5 @@ Version 1 – This program calculates
 - Process: Calculates and displays the total fare.
 - Output: Total Fare.
 - Does not include input validation.
+- Sample Output:
+--
